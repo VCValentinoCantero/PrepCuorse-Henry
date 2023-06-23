@@ -1,2 +1,1 @@
-# PrepCuorse-Henry
-repositorio de prueba del modulo 2 del prepcourse de henry
+este es mi primer proyecto, comenze en el dia 23/6, como crear un repositorio y clonarlo desde github a mi pc
